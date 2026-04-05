@@ -287,8 +287,8 @@
       <hotspot url="{node5}" distance="177.065" description="" title="" pan="-295.59" id="Point04" target="" tilt="-2.92" skinid="ht_node"/>
       <hotspot pan="-312.62" url="images/40c91c56164100a7cd167056dd3e2eac.jpeg" description="" id="Point05" target="" tilt="-18.46" skinid="ht_image" title=""/>
       <hotspot pan="-96.65" url="images/50865050321_b471654dc5_6k.jpg" description="" id="Point06" target="" tilt="6.73" skinid="ht_image" title="Circa 1938"/>
-      <hotspot pan="-10.82" url="" description="" id="Point07" target="_blank" tilt="2.84" skinid="ht_url" title=""/>
-    </hotspots>
+      
+    </hotspots
     <media/>
     <transition zoomafterinfov="140" zoomafteroutfov="40" zoomin="0" zoomout="0" type="crossdissolve" delay="none" zoomspeed="2" zoomoutpause="1" blendtime="1" enabled="1" zoomfov="40" softedge="0" blendcolor="0x000000"/>
     <animation useinautorotation="0" clipsrandom="0" syncanimationwithvideo="0" animsequence="Animation01"/>
